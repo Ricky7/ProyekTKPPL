@@ -1,0 +1,154 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: Team 4G
+Judul Topik: Teknologi Jaringan 4G LTE
+Alamat Github: https://github.com/Ricky7/ProyekTKPPL.git
+Alamat Trello:
+Anggota 1:
+	Nama: Ricky Sibuea
+	NIM: 091114701
+	Github ID : Ricky 7
+Anggota 2:
+	Nama: M. Fachri Simanungkalit
+	NIM: 101112525
+	Github ID :
+Anggota 3:
+	Nama: Ilham Wahyudi
+	NIM: 101112720
+	Github ID :
+Anggota 4:
+	Nama: Ferdy Pramana Putra
+	NIM: 101113024
+	Github ID :
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 28/5
+Scrummaster: Ricky Sibuea (091114701)
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Sprint 4:
+
+
+Sprint 5:
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Nama Anggota 1):
+1. -
+2. -
+3. -
+
+(Nama Anggota 2):
+1. -
+2. -
+3. -
+
+(Nama Anggota 3):
+1. -
+2. -
+3. -
+
+
+27/5 
+Daily Scrum
+(Nama Anggota 1):
+1. -
+2. -
+3. -
+
+(Nama Anggota 2):
+1. -
+2. -
+3. -
+
+(Nama Anggota 3):
+1. -
+2. -
+3. -
+
+
+28/5 
+Daily Scrum
+(Nama Anggota 1):
+1. -
+2. -
+3. -
+
+(Nama Anggota 2):
+1. -
+2. -
+3. -
+
+(Nama Anggota 3):
+1. -
+2. -
+3. -
+
+=============================================
+29/5 
+Daily Scrum
+(Nama Anggota 1):
+1. -
+2. -
+3. -
+
+(Nama Anggota 2):
+1. -
+2. -
+3. -
+
+(Nama Anggota 3):
+1. -
+2. -
+3. -
+
+
+30/5 
+Daily Scrum
+(Nama Anggota 1):
+1. -
+2. -
+3. -
+
+(Nama Anggota 2):
+1. -
+2. -
+3. -
+
+(Nama Anggota 3):
+1. -
+2. -
+3. -
+
+31/5 
+Daily Scrum
+(Nama Anggota 1):
+1. -
+2. -
+3. -
+
+(Nama Anggota 2):
+1. -
+2. -
+3. -
+
+(Nama Anggota 3):
+1. -
+2. -
+3. -
+
+=============================================
