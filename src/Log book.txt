@@ -8,11 +8,11 @@ Alamat Trello:
 Anggota 1:
 	Nama: Ricky Sibuea
 	NIM: 091114701
-	Github ID : Ricky 7
+	Github ID : Ricky7
 Anggota 2:
 	Nama: M. Fachri Simanungkalit
 	NIM: 101112525
-	Github ID :
+	Github ID : Fachri10
 Anggota 3:
 	Nama: Ilham Wahyudi
 	NIM: 101112720
