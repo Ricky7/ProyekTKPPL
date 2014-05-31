@@ -31,7 +31,8 @@ Sprint 1:
 Scrummaster: Ricky Sibuea (091114701)
 
 Sprint 2:
-
+29/5 - 31/5
+Scrummaster: M.Fachri simanungkalit (101112525)
 
 Sprint 3: 
 
@@ -47,17 +48,17 @@ Progress Harian (Diupdate tiap hari)
 
 26/5 
 Daily Scrum
-(Nama Anggota 1):
+(M.Fachri Simanungkalit):
 1. -
 2. -
 3. -
 
-(Nama Anggota 2):
+(Ferdy Pramana Putra):
 1. -
 2. -
 3. -
 
-(Nama Anggota 3):
+(Ilham Wahyudi):
 1. -
 2. -
 3. -
@@ -65,17 +66,17 @@ Daily Scrum
 
 27/5 
 Daily Scrum
-(Nama Anggota 1):
+(M.Fachri Simanungkalit):
 1. -
 2. -
 3. -
 
-(Nama Anggota 2):
+(Ferdy Pramana Putra):
 1. -
 2. -
 3. -
 
-(Nama Anggota 3):
+(Ilham Wahyudi):
 1. -
 2. -
 3. -
@@ -83,17 +84,17 @@ Daily Scrum
 
 28/5 
 Daily Scrum
-(Nama Anggota 1):
+(M.Fachri Simanungkalit):
 1. -
 2. -
 3. -
 
-(Nama Anggota 2):
+(Ferdy Pramana Putra):
 1. -
 2. -
 3. -
 
-(Nama Anggota 3):
+(Ilham Wahyudi):
 1. -
 2. -
 3. -
@@ -101,17 +102,17 @@ Daily Scrum
 =============================================
 29/5 
 Daily Scrum
-(Nama Anggota 1):
+(Ricky Sibuea):
 1. -
 2. -
 3. -
 
-(Nama Anggota 2):
+(Ferdy Pramana Putra):
 1. -
 2. -
 3. -
 
-(Nama Anggota 3):
+(Ilham Wahyudi):
 1. -
 2. -
 3. -
@@ -119,34 +120,34 @@ Daily Scrum
 
 30/5 
 Daily Scrum
-(Nama Anggota 1):
+(Rcky Sibuea):
 1. -
 2. -
 3. -
 
-(Nama Anggota 2):
+(Ferdy Pramana Putra):
 1. -
 2. -
 3. -
 
-(Nama Anggota 3):
+(Ilham Wahyudi):
 1. -
 2. -
 3. -
 
 31/5 
 Daily Scrum
-(Nama Anggota 1):
+(Ricky Sibuea):
 1. -
 2. -
 3. -
 
-(Nama Anggota 2):
+(Ferdy Pramana Putra):
 1. -
 2. -
 3. -
 
-(Nama Anggota 3):
+(Ilham Wahyudi):
 1. -
 2. -
 3. -
