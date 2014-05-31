@@ -4,7 +4,7 @@ INFORMASI UMUM
 Nama kelompok: Team 4G
 Judul Topik: Teknologi Jaringan 4G LTE
 Alamat Github: https://github.com/Ricky7/ProyekTKPPL.git
-Alamat Trello:
+Alamat Trello: https://trello.com/b/ocW4CXgd/proyek-tkppl
 Anggota 1:
 	Nama: Ricky Sibuea
 	NIM: 091114701
@@ -16,11 +16,11 @@ Anggota 2:
 Anggota 3:
 	Nama: Ilham Wahyudi
 	NIM: 101112720
-	Github ID :
+	Github ID : Ilham2
 Anggota 4:
 	Nama: Ferdy Pramana Putra
 	NIM: 101113024
-	Github ID :
+	Github ID : Ferdy10
 =======================
 
 
